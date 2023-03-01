@@ -6,14 +6,14 @@
 - ⭐️ Postman Student Expert
 - 😄 Pronouns: She/Her
 
-<h3 align="center"> Some of my interests...  </h3>
+<h3 align="left"> Some of my interests...  </h3>
 
 - AI/ML Enthusiast 💻
 - Community Enthusiast !!
-- <a href="https://www.postman.com/"> Postman </a> Student Expert 🧙‍♀️
+- <a href="https://www.postman.com/"> Postman </a> Student Expert ⭐️
 
 
-<h3 align="center">Languages I like to play with... </h3>
+<h3 align="left">Languages I like to play with... </h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
