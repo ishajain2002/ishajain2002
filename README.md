@@ -1,21 +1,29 @@
 <h1 align="center">Heyy there👋, Isha this side !!</h1>
 
 
-- 🔭 I’m currently working on Data structures & Algorithms
-- 🌱 Exploring AI/ML 
-- ⭐️ Postman Student Expert
+- 🔭 Learning!
+- 💻 Tech Enthusiast 
 - 😄 Pronouns: She/Her
 
 <h3 align="left"> Some of my interests...  </h3>
 
-- AI/ML Enthusiast 💻
-- Community Enthusiast !!
-- <a href="https://www.postman.com/"> Postman </a> Student Expert ⭐️
+- Ink, waves, and coffee — my perfect trio!
 
-<!-- 
-<h3 align="left">Languages I like to play with... </h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
- -->
+<h3 align="left">Languages and Tools I like to play with...</h3>
+<p align="left">
+  <kbd>C</kbd>
+  <kbd>C++</kbd>
+  <kbd>Java</kbd>
+  <kbd>C#</kbd>
+  <kbd>JavaScript</kbd>
+  <kbd>React</kbd>
+  <kbd>Python</kbd>
+  <kbd>Visual Studio</kbd>
+  <kbd>VS Code</kbd>
+  <kbd>Jupyter</kbd>
+  <kbd>PyCharm</kbd>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
