@@ -11,15 +11,19 @@
 
 <h3 align="left">Languages and Tools I like to play with...</h3>
 <p align="left">
+  <kbd>Spring Boot</kbd>
+  <kbd>ASP.Net</kbd>
   <kbd>C</kbd>
   <kbd>C++</kbd>
   <kbd>Java</kbd>
   <kbd>C#</kbd>
   <kbd>JavaScript</kbd>
   <kbd>React</kbd>
-  <kbd>Python</kbd>
+  <kbd>IntelliJ</kbd>
+  <kbd>Eclipse</kbd>
   <kbd>Visual Studio</kbd>
   <kbd>VS Code</kbd>
+  <kbd>Python</kbd>
   <kbd>Jupyter</kbd>
   <kbd>PyCharm</kbd>
 </p>
